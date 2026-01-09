@@ -1,0 +1,1021 @@
+{
+  "title": "TOEIC 기출 단어장 (550→920 목표)",
+  "description": "토익 기출 단어와 예문을 포함한 학습용 단어장",
+  "total_words": 150,
+  "vocabulary": [
+    {
+      "word": "accommodate",
+      "meaning": "수용하다, 편의를 제공하다",
+      "example": "The conference room can accommodate up to 50 participants.",
+      "translation": "회의실은 최대 50명의 참가자를 수용할 수 있습니다."
+    },
+    {
+      "word": "accomplish",
+      "meaning": "성취하다, 달성하다",
+      "example": "The team accomplished all of its goals ahead of schedule.",
+      "translation": "팀은 예정보다 앞서 모든 목표를 달성했습니다."
+    },
+    {
+      "word": "accredited",
+      "meaning": "공인된, 인가된",
+      "example": "Only accredited journalists are allowed to attend the press conference.",
+      "translation": "공인된 기자들만 기자회견에 참석할 수 있습니다."
+    },
+    {
+      "word": "acquire",
+      "meaning": "획득하다, 인수하다",
+      "example": "The company plans to acquire a smaller competitor next quarter.",
+      "translation": "회사는 다음 분기에 더 작은 경쟁사를 인수할 계획입니다."
+    },
+    {
+      "word": "adjacent",
+      "meaning": "인접한, 이웃한",
+      "example": "The parking lot is adjacent to the main office building.",
+      "translation": "주차장은 본사 건물에 인접해 있습니다."
+    },
+    {
+      "word": "advocate",
+      "meaning": "옹호하다, 지지자",
+      "example": "The manager advocates for flexible working hours.",
+      "translation": "그 관리자는 유연 근무 시간을 옹호합니다."
+    },
+    {
+      "word": "affordable",
+      "meaning": "가격이 적당한, 알맞은",
+      "example": "We offer affordable prices without compromising quality.",
+      "translation": "우리는 품질을 희생하지 않으면서 적당한 가격을 제공합니다."
+    },
+    {
+      "word": "agenda",
+      "meaning": "의제, 안건",
+      "example": "Please review the agenda before tomorrow's meeting.",
+      "translation": "내일 회의 전에 안건을 검토해 주세요."
+    },
+    {
+      "word": "allocate",
+      "meaning": "할당하다, 배분하다",
+      "example": "The budget has been allocated to various departments.",
+      "translation": "예산이 여러 부서에 할당되었습니다."
+    },
+    {
+      "word": "ambitious",
+      "meaning": "야심 찬, 포부가 큰",
+      "example": "The company announced an ambitious expansion plan.",
+      "translation": "회사는 야심 찬 확장 계획을 발표했습니다."
+    },
+    {
+      "word": "amend",
+      "meaning": "수정하다, 개정하다",
+      "example": "The contract was amended to include new terms.",
+      "translation": "계약서가 새로운 조건을 포함하도록 수정되었습니다."
+    },
+    {
+      "word": "anticipate",
+      "meaning": "예상하다, 기대하다",
+      "example": "We anticipate a significant increase in sales this year.",
+      "translation": "우리는 올해 매출의 상당한 증가를 예상합니다."
+    },
+    {
+      "word": "appraisal",
+      "meaning": "평가, 감정",
+      "example": "Annual performance appraisals will begin next month.",
+      "translation": "연간 성과 평가가 다음 달에 시작됩니다."
+    },
+    {
+      "word": "apprentice",
+      "meaning": "견습생, 수습생",
+      "example": "The apprentice is learning essential skills from senior staff.",
+      "translation": "견습생은 선임 직원들로부터 필수 기술을 배우고 있습니다."
+    },
+    {
+      "word": "approximately",
+      "meaning": "대략, 약",
+      "example": "The project will take approximately three months to complete.",
+      "translation": "프로젝트는 완료하는 데 약 3개월이 걸릴 것입니다."
+    },
+    {
+      "word": "assortment",
+      "meaning": "구색, 다양한 종류",
+      "example": "The store offers a wide assortment of office supplies.",
+      "translation": "그 가게는 다양한 종류의 사무용품을 제공합니다."
+    },
+    {
+      "word": "attentive",
+      "meaning": "주의 깊은, 세심한",
+      "example": "Our attentive staff is always ready to assist customers.",
+      "translation": "세심한 직원들이 항상 고객을 도울 준비가 되어 있습니다."
+    },
+    {
+      "word": "attribute",
+      "meaning": "~의 덕분으로 돌리다, 특성",
+      "example": "The success can be attributed to excellent teamwork.",
+      "translation": "그 성공은 뛰어난 팀워크 덕분이라고 할 수 있습니다."
+    },
+    {
+      "word": "authentic",
+      "meaning": "진짜의, 정통의",
+      "example": "The restaurant serves authentic Italian cuisine.",
+      "translation": "그 레스토랑은 정통 이탈리아 요리를 제공합니다."
+    },
+    {
+      "word": "authorize",
+      "meaning": "승인하다, 권한을 부여하다",
+      "example": "Only managers are authorized to approve expense reports.",
+      "translation": "관리자만 경비 보고서를 승인할 권한이 있습니다."
+    },
+    {
+      "word": "beforehand",
+      "meaning": "미리, 사전에",
+      "example": "Please submit your documents beforehand to avoid delays.",
+      "translation": "지연을 피하기 위해 서류를 미리 제출해 주세요."
+    },
+    {
+      "word": "benefit",
+      "meaning": "혜택, 이점, 이익을 얻다",
+      "example": "Employees will benefit from the new training program.",
+      "translation": "직원들은 새로운 교육 프로그램으로 혜택을 받을 것입니다."
+    },
+    {
+      "word": "beverage",
+      "meaning": "음료",
+      "example": "Complimentary beverages will be served during the event.",
+      "translation": "행사 중에 무료 음료가 제공됩니다."
+    },
+    {
+      "word": "blueprint",
+      "meaning": "청사진, 설계도",
+      "example": "The architect presented the blueprint for the new building.",
+      "translation": "건축가가 새 건물의 설계도를 발표했습니다."
+    },
+    {
+      "word": "brochure",
+      "meaning": "안내 책자, 브로슈어",
+      "example": "Please take a brochure for more information about our services.",
+      "translation": "저희 서비스에 대한 더 많은 정보를 위해 안내 책자를 가져가세요."
+    },
+    {
+      "word": "candidate",
+      "meaning": "후보자, 지원자",
+      "example": "Three candidates have been shortlisted for the position.",
+      "translation": "세 명의 후보자가 그 직위의 최종 후보로 올랐습니다."
+    },
+    {
+      "word": "capable",
+      "meaning": "유능한, ~할 수 있는",
+      "example": "She is capable of handling multiple projects simultaneously.",
+      "translation": "그녀는 여러 프로젝트를 동시에 처리할 수 있습니다."
+    },
+    {
+      "word": "circumstance",
+      "meaning": "상황, 환경",
+      "example": "Under no circumstances should confidential data be shared.",
+      "translation": "어떤 상황에서도 기밀 데이터를 공유해서는 안 됩니다."
+    },
+    {
+      "word": "clarify",
+      "meaning": "명확히 하다, 분명히 하다",
+      "example": "Could you please clarify the payment terms?",
+      "translation": "지불 조건을 명확히 해주시겠습니까?"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "협력하다, 공동 작업하다",
+      "example": "The two departments will collaborate on the new initiative.",
+      "translation": "두 부서가 새로운 계획에 협력할 것입니다."
+    },
+    {
+      "word": "commence",
+      "meaning": "시작하다, 개시하다",
+      "example": "Construction will commence at the beginning of next month.",
+      "translation": "공사는 다음 달 초에 시작될 것입니다."
+    },
+    {
+      "word": "commute",
+      "meaning": "통근하다, 통근",
+      "example": "Many employees commute by train to the city center.",
+      "translation": "많은 직원들이 도심으로 기차로 통근합니다."
+    },
+    {
+      "word": "compensation",
+      "meaning": "보상, 급여",
+      "example": "The compensation package includes health insurance and bonuses.",
+      "translation": "보상 패키지에는 건강 보험과 보너스가 포함됩니다."
+    },
+    {
+      "word": "competence",
+      "meaning": "능력, 역량",
+      "example": "Technical competence is essential for this role.",
+      "translation": "기술적 역량은 이 직무에 필수적입니다."
+    },
+    {
+      "word": "competitive",
+      "meaning": "경쟁력 있는, 경쟁적인",
+      "example": "We offer competitive salaries to attract top talent.",
+      "translation": "우리는 최고의 인재를 유치하기 위해 경쟁력 있는 급여를 제공합니다."
+    },
+    {
+      "word": "compile",
+      "meaning": "편집하다, 수집하다",
+      "example": "Please compile all relevant data into a single report.",
+      "translation": "모든 관련 데이터를 하나의 보고서로 편집해 주세요."
+    },
+    {
+      "word": "complement",
+      "meaning": "보완하다, 보완물",
+      "example": "The new software complements our existing systems perfectly.",
+      "translation": "새 소프트웨어는 기존 시스템을 완벽하게 보완합니다."
+    },
+    {
+      "word": "complimentary",
+      "meaning": "무료의, 칭찬하는",
+      "example": "Guests will receive complimentary breakfast during their stay.",
+      "translation": "투숙객은 숙박 기간 동안 무료 아침 식사를 제공받습니다."
+    },
+    {
+      "word": "comply",
+      "meaning": "준수하다, 따르다",
+      "example": "All employees must comply with the new safety regulations.",
+      "translation": "모든 직원은 새로운 안전 규정을 준수해야 합니다."
+    },
+    {
+      "word": "comprehensive",
+      "meaning": "포괄적인, 종합적인",
+      "example": "The report provides a comprehensive analysis of market trends.",
+      "translation": "보고서는 시장 동향에 대한 포괄적인 분석을 제공합니다."
+    },
+    {
+      "word": "compromise",
+      "meaning": "타협하다, 타협",
+      "example": "Both parties reached a compromise after lengthy negotiations.",
+      "translation": "양측은 긴 협상 끝에 타협에 도달했습니다."
+    },
+    {
+      "word": "conduct",
+      "meaning": "수행하다, 실시하다",
+      "example": "The company will conduct interviews next week.",
+      "translation": "회사는 다음 주에 면접을 실시할 것입니다."
+    },
+    {
+      "word": "confidential",
+      "meaning": "기밀의, 비밀의",
+      "example": "This document contains confidential information.",
+      "translation": "이 문서에는 기밀 정보가 포함되어 있습니다."
+    },
+    {
+      "word": "consecutive",
+      "meaning": "연속적인",
+      "example": "Sales have increased for five consecutive quarters.",
+      "translation": "매출이 5분기 연속으로 증가했습니다."
+    },
+    {
+      "word": "considerable",
+      "meaning": "상당한, 많은",
+      "example": "The project requires a considerable amount of investment.",
+      "translation": "그 프로젝트는 상당한 투자가 필요합니다."
+    },
+    {
+      "word": "consistently",
+      "meaning": "일관되게, 꾸준히",
+      "example": "The team has consistently exceeded performance targets.",
+      "translation": "팀은 일관되게 성과 목표를 초과 달성했습니다."
+    },
+    {
+      "word": "contribute",
+      "meaning": "기여하다, 공헌하다",
+      "example": "Each team member is expected to contribute to the project.",
+      "translation": "각 팀원은 프로젝트에 기여할 것으로 기대됩니다."
+    },
+    {
+      "word": "convey",
+      "meaning": "전달하다, 운반하다",
+      "example": "The email failed to convey the urgency of the situation.",
+      "translation": "이메일은 상황의 긴급성을 전달하지 못했습니다."
+    },
+    {
+      "word": "coordinate",
+      "meaning": "조정하다, 협력하다",
+      "example": "She will coordinate the logistics for the upcoming conference.",
+      "translation": "그녀가 다가오는 회의의 물류를 조정할 것입니다."
+    },
+    {
+      "word": "counterpart",
+      "meaning": "상대, 대응 관계에 있는 사람",
+      "example": "The CEO met with her counterpart from the partner company.",
+      "translation": "CEO는 파트너 회사의 상대측 CEO와 만났습니다."
+    },
+    {
+      "word": "credential",
+      "meaning": "자격증, 자격",
+      "example": "Applicants must submit their credentials with the application.",
+      "translation": "지원자들은 지원서와 함께 자격증을 제출해야 합니다."
+    },
+    {
+      "word": "critical",
+      "meaning": "중요한, 비판적인",
+      "example": "Meeting the deadline is critical for the project's success.",
+      "translation": "마감 기한을 맞추는 것은 프로젝트 성공에 중요합니다."
+    },
+    {
+      "word": "cutting-edge",
+      "meaning": "최첨단의",
+      "example": "The company invests heavily in cutting-edge technology.",
+      "translation": "그 회사는 최첨단 기술에 많은 투자를 합니다."
+    },
+    {
+      "word": "deadline",
+      "meaning": "마감 기한",
+      "example": "The deadline for submission is Friday at 5 PM.",
+      "translation": "제출 마감 기한은 금요일 오후 5시입니다."
+    },
+    {
+      "word": "dedicated",
+      "meaning": "전념하는, 헌신적인",
+      "example": "Our dedicated team works around the clock to serve customers.",
+      "translation": "헌신적인 팀이 고객을 위해 24시간 일합니다."
+    },
+    {
+      "word": "deficit",
+      "meaning": "적자, 부족",
+      "example": "The company reported a budget deficit this quarter.",
+      "translation": "회사는 이번 분기에 예산 적자를 보고했습니다."
+    },
+    {
+      "word": "demographic",
+      "meaning": "인구 통계학적인",
+      "example": "The marketing team analyzed demographic data to target customers.",
+      "translation": "마케팅 팀은 고객을 타겟팅하기 위해 인구 통계 데이터를 분석했습니다."
+    },
+    {
+      "word": "demonstrate",
+      "meaning": "보여주다, 시연하다",
+      "example": "The sales representative will demonstrate the new product.",
+      "translation": "영업 담당자가 신제품을 시연할 것입니다."
+    },
+    {
+      "word": "designate",
+      "meaning": "지정하다, 임명하다",
+      "example": "A specific area has been designated for employee parking.",
+      "translation": "직원 주차를 위한 특정 구역이 지정되었습니다."
+    },
+    {
+      "word": "determine",
+      "meaning": "결정하다, 판단하다",
+      "example": "The committee will determine the winner by next week.",
+      "translation": "위원회는 다음 주까지 우승자를 결정할 것입니다."
+    },
+    {
+      "word": "distinguish",
+      "meaning": "구별하다, 구분하다",
+      "example": "Our quality distinguishes us from competitors.",
+      "translation": "우리의 품질이 경쟁사와 우리를 구별합니다."
+    },
+    {
+      "word": "diverse",
+      "meaning": "다양한",
+      "example": "The company has a diverse workforce from many countries.",
+      "translation": "그 회사는 여러 나라에서 온 다양한 인력을 보유하고 있습니다."
+    },
+    {
+      "word": "durable",
+      "meaning": "내구성 있는, 오래 가는",
+      "example": "Our products are made from durable materials.",
+      "translation": "우리 제품은 내구성 있는 소재로 만들어집니다."
+    },
+    {
+      "word": "efficiently",
+      "meaning": "효율적으로",
+      "example": "The new system allows us to process orders more efficiently.",
+      "translation": "새 시스템으로 주문을 더 효율적으로 처리할 수 있습니다."
+    },
+    {
+      "word": "eligible",
+      "meaning": "자격이 있는",
+      "example": "Employees with over five years of service are eligible for the bonus.",
+      "translation": "5년 이상 근무한 직원은 보너스를 받을 자격이 있습니다."
+    },
+    {
+      "word": "emphasize",
+      "meaning": "강조하다",
+      "example": "The manager emphasized the importance of customer satisfaction.",
+      "translation": "관리자는 고객 만족의 중요성을 강조했습니다."
+    },
+    {
+      "word": "encounter",
+      "meaning": "마주치다, 직면하다",
+      "example": "If you encounter any problems, please contact technical support.",
+      "translation": "문제가 발생하면 기술 지원팀에 연락해 주세요."
+    },
+    {
+      "word": "endorse",
+      "meaning": "승인하다, 지지하다",
+      "example": "The board endorsed the new marketing strategy.",
+      "translation": "이사회는 새로운 마케팅 전략을 승인했습니다."
+    },
+    {
+      "word": "enhance",
+      "meaning": "향상시키다, 개선하다",
+      "example": "The renovation will enhance the building's appearance.",
+      "translation": "리노베이션은 건물의 외관을 향상시킬 것입니다."
+    },
+    {
+      "word": "ensure",
+      "meaning": "보장하다, 확실하게 하다",
+      "example": "Please ensure that all doors are locked before leaving.",
+      "translation": "떠나기 전에 모든 문이 잠겨 있는지 확인해 주세요."
+    },
+    {
+      "word": "enterprise",
+      "meaning": "기업, 사업",
+      "example": "The enterprise has expanded to three new markets this year.",
+      "translation": "그 기업은 올해 세 개의 새로운 시장으로 확장했습니다."
+    },
+    {
+      "word": "enthusiastic",
+      "meaning": "열정적인, 열광적인",
+      "example": "The team was enthusiastic about the new project.",
+      "translation": "팀은 새 프로젝트에 열정적이었습니다."
+    },
+    {
+      "word": "entitle",
+      "meaning": "자격을 주다, ~할 권리를 주다",
+      "example": "This membership entitles you to exclusive discounts.",
+      "translation": "이 회원권은 독점 할인을 받을 자격을 드립니다."
+    },
+    {
+      "word": "entrepreneur",
+      "meaning": "기업가, 사업가",
+      "example": "The young entrepreneur founded her company at age 25.",
+      "translation": "그 젊은 기업가는 25세에 회사를 설립했습니다."
+    },
+    {
+      "word": "establish",
+      "meaning": "설립하다, 수립하다",
+      "example": "The company was established in 1985.",
+      "translation": "그 회사는 1985년에 설립되었습니다."
+    },
+    {
+      "word": "evaluate",
+      "meaning": "평가하다",
+      "example": "We will evaluate all proposals before making a decision.",
+      "translation": "결정을 내리기 전에 모든 제안서를 평가할 것입니다."
+    },
+    {
+      "word": "exceed",
+      "meaning": "초과하다, 능가하다",
+      "example": "Sales exceeded expectations by 20 percent.",
+      "translation": "매출이 예상을 20% 초과했습니다."
+    },
+    {
+      "word": "exceptional",
+      "meaning": "뛰어난, 예외적인",
+      "example": "The employee received an award for exceptional performance.",
+      "translation": "그 직원은 뛰어난 성과로 상을 받았습니다."
+    },
+    {
+      "word": "exclusive",
+      "meaning": "독점적인, 고급의",
+      "example": "Members have exclusive access to special events.",
+      "translation": "회원들은 특별 행사에 독점적으로 참여할 수 있습니다."
+    },
+    {
+      "word": "expedite",
+      "meaning": "신속히 처리하다",
+      "example": "We can expedite your order for an additional fee.",
+      "translation": "추가 비용을 지불하시면 주문을 신속히 처리해 드릴 수 있습니다."
+    },
+    {
+      "word": "expertise",
+      "meaning": "전문 지식, 전문 기술",
+      "example": "Her expertise in finance was invaluable to the team.",
+      "translation": "그녀의 금융 전문 지식은 팀에 매우 소중했습니다."
+    },
+    {
+      "word": "expire",
+      "meaning": "만료되다",
+      "example": "Your subscription will expire at the end of the month.",
+      "translation": "구독이 이번 달 말에 만료됩니다."
+    },
+    {
+      "word": "extensive",
+      "meaning": "광범위한, 대규모의",
+      "example": "The company has an extensive network of suppliers.",
+      "translation": "그 회사는 광범위한 공급업체 네트워크를 가지고 있습니다."
+    },
+    {
+      "word": "facilitate",
+      "meaning": "촉진하다, 용이하게 하다",
+      "example": "The new software will facilitate communication between teams.",
+      "translation": "새 소프트웨어는 팀 간 의사소통을 촉진할 것입니다."
+    },
+    {
+      "word": "fiscal",
+      "meaning": "회계의, 재정의",
+      "example": "The fiscal year ends on December 31st.",
+      "translation": "회계연도는 12월 31일에 끝납니다."
+    },
+    {
+      "word": "flexible",
+      "meaning": "유연한, 융통성 있는",
+      "example": "We offer flexible working arrangements for employees.",
+      "translation": "우리는 직원들에게 유연한 근무 형태를 제공합니다."
+    },
+    {
+      "word": "forecast",
+      "meaning": "예측하다, 예보",
+      "example": "Analysts forecast strong growth in the technology sector.",
+      "translation": "분석가들은 기술 부문의 강한 성장을 예측합니다."
+    },
+    {
+      "word": "fulfill",
+      "meaning": "이행하다, 충족시키다",
+      "example": "We are committed to fulfilling all customer orders promptly.",
+      "translation": "우리는 모든 고객 주문을 신속히 이행하기 위해 최선을 다합니다."
+    },
+    {
+      "word": "generate",
+      "meaning": "생성하다, 발생시키다",
+      "example": "The new marketing campaign generated significant interest.",
+      "translation": "새로운 마케팅 캠페인이 상당한 관심을 불러일으켰습니다."
+    },
+    {
+      "word": "genuine",
+      "meaning": "진정한, 진짜의",
+      "example": "We appreciate your genuine interest in our company.",
+      "translation": "저희 회사에 대한 진정한 관심에 감사드립니다."
+    },
+    {
+      "word": "guarantee",
+      "meaning": "보장하다, 보증",
+      "example": "All products come with a two-year guarantee.",
+      "translation": "모든 제품에는 2년 보증이 제공됩니다."
+    },
+    {
+      "word": "hesitant",
+      "meaning": "주저하는, 망설이는",
+      "example": "Some investors are hesitant to commit funds to the project.",
+      "translation": "일부 투자자들은 프로젝트에 자금을 투입하는 것을 주저하고 있습니다."
+    },
+    {
+      "word": "implement",
+      "meaning": "시행하다, 실행하다",
+      "example": "The company will implement the new policy starting next month.",
+      "translation": "회사는 다음 달부터 새로운 정책을 시행할 것입니다."
+    },
+    {
+      "word": "implication",
+      "meaning": "영향, 함축",
+      "example": "The decision has significant implications for the budget.",
+      "translation": "그 결정은 예산에 상당한 영향을 미칩니다."
+    },
+    {
+      "word": "incentive",
+      "meaning": "장려금, 동기 부여",
+      "example": "The company offers incentives to boost employee productivity.",
+      "translation": "회사는 직원 생산성을 높이기 위해 인센티브를 제공합니다."
+    },
+    {
+      "word": "incorporate",
+      "meaning": "통합하다, 포함시키다",
+      "example": "We will incorporate your feedback into the final design.",
+      "translation": "귀하의 피드백을 최종 디자인에 통합할 것입니다."
+    },
+    {
+      "word": "indicate",
+      "meaning": "나타내다, 가리키다",
+      "example": "Recent data indicates a shift in consumer preferences.",
+      "translation": "최근 데이터는 소비자 선호도의 변화를 나타냅니다."
+    },
+    {
+      "word": "inevitable",
+      "meaning": "피할 수 없는, 불가피한",
+      "example": "Some delays are inevitable during the transition period.",
+      "translation": "전환 기간 동안 일부 지연은 불가피합니다."
+    },
+    {
+      "word": "influence",
+      "meaning": "영향을 미치다, 영향",
+      "example": "Economic conditions influence consumer spending habits.",
+      "translation": "경제 상황이 소비자 지출 습관에 영향을 미칩니다."
+    },
+    {
+      "word": "initiative",
+      "meaning": "계획, 주도권",
+      "example": "The company launched a new sustainability initiative.",
+      "translation": "회사는 새로운 지속 가능성 계획을 시작했습니다."
+    },
+    {
+      "word": "innovative",
+      "meaning": "혁신적인",
+      "example": "The team developed an innovative solution to the problem.",
+      "translation": "팀은 문제에 대한 혁신적인 해결책을 개발했습니다."
+    },
+    {
+      "word": "inspection",
+      "meaning": "검사, 점검",
+      "example": "The factory passed the safety inspection.",
+      "translation": "공장은 안전 검사를 통과했습니다."
+    },
+    {
+      "word": "installment",
+      "meaning": "분할 납부, 할부",
+      "example": "You may pay for the equipment in monthly installments.",
+      "translation": "장비 대금을 월별 할부로 지불하실 수 있습니다."
+    },
+    {
+      "word": "integral",
+      "meaning": "필수적인, 완전한",
+      "example": "Customer feedback is an integral part of our improvement process.",
+      "translation": "고객 피드백은 우리 개선 과정의 필수적인 부분입니다."
+    },
+    {
+      "word": "intermission",
+      "meaning": "휴식 시간, 중간 휴식",
+      "example": "There will be a 15-minute intermission during the performance.",
+      "translation": "공연 중에 15분간의 휴식 시간이 있을 것입니다."
+    },
+    {
+      "word": "inventory",
+      "meaning": "재고, 목록",
+      "example": "The store needs to update its inventory before the sale.",
+      "translation": "가게는 세일 전에 재고를 업데이트해야 합니다."
+    },
+    {
+      "word": "investigate",
+      "meaning": "조사하다",
+      "example": "The team will investigate the cause of the delay.",
+      "translation": "팀이 지연의 원인을 조사할 것입니다."
+    },
+    {
+      "word": "itinerary",
+      "meaning": "여행 일정표",
+      "example": "Please review the itinerary for your upcoming business trip.",
+      "translation": "다가오는 출장 여행 일정표를 검토해 주세요."
+    },
+    {
+      "word": "launch",
+      "meaning": "출시하다, 시작하다",
+      "example": "The company will launch a new product line next spring.",
+      "translation": "회사는 내년 봄에 새로운 제품 라인을 출시할 것입니다."
+    },
+    {
+      "word": "legitimate",
+      "meaning": "합법적인, 정당한",
+      "example": "The complaint was deemed legitimate by the review board.",
+      "translation": "그 불만은 검토 위원회에 의해 정당하다고 판단되었습니다."
+    },
+    {
+      "word": "liability",
+      "meaning": "책임, 부채",
+      "example": "The company holds no liability for damages caused by misuse.",
+      "translation": "회사는 오용으로 인한 손해에 대해 책임을 지지 않습니다."
+    },
+    {
+      "word": "mandatory",
+      "meaning": "의무적인, 필수의",
+      "example": "Attendance at the safety training session is mandatory.",
+      "translation": "안전 교육 세션 참석은 의무입니다."
+    },
+    {
+      "word": "maximize",
+      "meaning": "극대화하다",
+      "example": "We aim to maximize efficiency while reducing costs.",
+      "translation": "우리는 비용을 줄이면서 효율성을 극대화하는 것을 목표로 합니다."
+    },
+    {
+      "word": "negotiate",
+      "meaning": "협상하다",
+      "example": "The two companies are negotiating a merger agreement.",
+      "translation": "두 회사가 합병 계약을 협상하고 있습니다."
+    },
+    {
+      "word": "objective",
+      "meaning": "목표, 객관적인",
+      "example": "Our main objective is to improve customer satisfaction.",
+      "translation": "우리의 주요 목표는 고객 만족도를 향상시키는 것입니다."
+    },
+    {
+      "word": "obligation",
+      "meaning": "의무, 책임",
+      "example": "Employees have an obligation to follow company policies.",
+      "translation": "직원들은 회사 정책을 따를 의무가 있습니다."
+    },
+    {
+      "word": "obtain",
+      "meaning": "얻다, 획득하다",
+      "example": "You must obtain approval before making any purchases.",
+      "translation": "구매하기 전에 승인을 받아야 합니다."
+    },
+    {
+      "word": "ongoing",
+      "meaning": "진행 중인, 계속되는",
+      "example": "The ongoing construction may cause some inconvenience.",
+      "translation": "진행 중인 공사가 불편을 초래할 수 있습니다."
+    },
+    {
+      "word": "outlook",
+      "meaning": "전망, 견해",
+      "example": "The economic outlook for next year is positive.",
+      "translation": "내년 경제 전망은 긍정적입니다."
+    },
+    {
+      "word": "outstanding",
+      "meaning": "뛰어난, 미지불된",
+      "example": "She was recognized for her outstanding contributions to the team.",
+      "translation": "그녀는 팀에 대한 뛰어난 공헌으로 인정받았습니다."
+    },
+    {
+      "word": "oversight",
+      "meaning": "감독, 실수",
+      "example": "The error was due to an oversight in the review process.",
+      "translation": "그 오류는 검토 과정에서의 실수 때문이었습니다."
+    },
+    {
+      "word": "participate",
+      "meaning": "참여하다",
+      "example": "All employees are encouraged to participate in the survey.",
+      "translation": "모든 직원들이 설문조사에 참여하도록 권장됩니다."
+    },
+    {
+      "word": "permanent",
+      "meaning": "영구적인, 정규직의",
+      "example": "After the probation period, employees may be offered permanent positions.",
+      "translation": "수습 기간 후에 직원들에게 정규직이 제안될 수 있습니다."
+    },
+    {
+      "word": "persuade",
+      "meaning": "설득하다",
+      "example": "The presentation persuaded investors to fund the project.",
+      "translation": "프레젠테이션은 투자자들이 프로젝트에 자금을 지원하도록 설득했습니다."
+    },
+    {
+      "word": "pharmaceutical",
+      "meaning": "제약의",
+      "example": "The pharmaceutical company is developing a new vaccine.",
+      "translation": "그 제약 회사는 새로운 백신을 개발하고 있습니다."
+    },
+    {
+      "word": "potential",
+      "meaning": "잠재력, 가능성이 있는",
+      "example": "The marketing team identified potential customers in the region.",
+      "translation": "마케팅 팀은 그 지역의 잠재 고객을 파악했습니다."
+    },
+    {
+      "word": "precaution",
+      "meaning": "예방 조치",
+      "example": "Please take all necessary precautions during the renovation.",
+      "translation": "리노베이션 기간 동안 모든 필요한 예방 조치를 취해 주세요."
+    },
+    {
+      "word": "preliminary",
+      "meaning": "예비의, 사전의",
+      "example": "The preliminary report will be available by Friday.",
+      "translation": "예비 보고서는 금요일까지 준비될 것입니다."
+    },
+    {
+      "word": "premises",
+      "meaning": "건물, 구내",
+      "example": "Smoking is not allowed on the premises.",
+      "translation": "건물 내에서 흡연은 허용되지 않습니다."
+    },
+    {
+      "word": "prescription",
+      "meaning": "처방전",
+      "example": "Please bring your prescription to the pharmacy.",
+      "translation": "약국에 처방전을 가져와 주세요."
+    },
+    {
+      "word": "prestigious",
+      "meaning": "명성 있는, 일류의",
+      "example": "She graduated from a prestigious university.",
+      "translation": "그녀는 명문 대학교를 졸업했습니다."
+    },
+    {
+      "word": "prior",
+      "meaning": "이전의, 사전의",
+      "example": "Prior experience in sales is required for this position.",
+      "translation": "이 직위에는 영업 관련 이전 경험이 필요합니다."
+    },
+    {
+      "word": "proceed",
+      "meaning": "진행하다, 계속하다",
+      "example": "Once payment is confirmed, we will proceed with shipping.",
+      "translation": "결제가 확인되면 배송을 진행하겠습니다."
+    },
+    {
+      "word": "proficient",
+      "meaning": "능숙한, 숙련된",
+      "example": "Applicants must be proficient in Microsoft Office.",
+      "translation": "지원자는 Microsoft Office에 능숙해야 합니다."
+    },
+    {
+      "word": "prohibit",
+      "meaning": "금지하다",
+      "example": "Company policy prohibits the use of personal devices at work.",
+      "translation": "회사 정책은 업무 중 개인 기기 사용을 금지합니다."
+    },
+    {
+      "word": "prominent",
+      "meaning": "저명한, 두드러진",
+      "example": "A prominent business leader will give the keynote speech.",
+      "translation": "저명한 비즈니스 리더가 기조연설을 할 것입니다."
+    },
+    {
+      "word": "promptly",
+      "meaning": "신속히, 즉시",
+      "example": "All inquiries will be answered promptly.",
+      "translation": "모든 문의는 신속히 답변될 것입니다."
+    },
+    {
+      "word": "proprietary",
+      "meaning": "독점적인, 소유권이 있는",
+      "example": "The company developed proprietary software for internal use.",
+      "translation": "회사는 내부용 독점 소프트웨어를 개발했습니다."
+    },
+    {
+      "word": "prospective",
+      "meaning": "장래의, 예상되는",
+      "example": "The sales team met with prospective clients at the trade show.",
+      "translation": "영업팀은 무역 박람회에서 잠재 고객들과 만났습니다."
+    },
+    {
+      "word": "punctual",
+      "meaning": "시간을 잘 지키는",
+      "example": "Being punctual is essential for making a good impression.",
+      "translation": "시간을 잘 지키는 것은 좋은 인상을 주는 데 필수적입니다."
+    },
+    {
+      "word": "questionnaire",
+      "meaning": "설문지",
+      "example": "Please complete the questionnaire and return it by Friday.",
+      "translation": "설문지를 작성하여 금요일까지 반환해 주세요."
+    },
+    {
+      "word": "reimburse",
+      "meaning": "상환하다, 환급하다",
+      "example": "Employees will be reimbursed for all travel expenses.",
+      "translation": "직원들은 모든 출장 경비를 환급받을 것입니다."
+    },
+    {
+      "word": "relevant",
+      "meaning": "관련된, 적절한",
+      "example": "Please attach all relevant documents to your application.",
+      "translation": "지원서에 모든 관련 서류를 첨부해 주세요."
+    },
+    {
+      "word": "reliable",
+      "meaning": "신뢰할 수 있는",
+      "example": "We need a reliable supplier for raw materials.",
+      "translation": "우리는 원자재를 위한 신뢰할 수 있는 공급업체가 필요합니다."
+    },
+    {
+      "word": "reputation",
+      "meaning": "명성, 평판",
+      "example": "The company has built a strong reputation for quality.",
+      "translation": "그 회사는 품질에 대한 강력한 명성을 쌓았습니다."
+    },
+    {
+      "word": "resolve",
+      "meaning": "해결하다, 결심하다",
+      "example": "Customer service will resolve the issue within 24 hours.",
+      "translation": "고객 서비스 부서가 24시간 내에 문제를 해결할 것입니다."
+    },
+    {
+      "word": "restriction",
+      "meaning": "제한, 규제",
+      "example": "There are restrictions on parking in the downtown area.",
+      "translation": "도심 지역에는 주차 제한이 있습니다."
+    },
+    {
+      "word": "retain",
+      "meaning": "유지하다, 보유하다",
+      "example": "The company strives to retain its top-performing employees.",
+      "translation": "회사는 최고 성과를 내는 직원들을 유지하기 위해 노력합니다."
+    },
+    {
+      "word": "revitalization",
+      "meaning": "재활성화, 부흥",
+      "example": "The downtown revitalization project will begin next year.",
+      "translation": "도심 재활성화 프로젝트가 내년에 시작될 것입니다."
+    },
+    {
+      "word": "rigorous",
+      "meaning": "엄격한, 철저한",
+      "example": "All products undergo rigorous quality testing.",
+      "translation": "모든 제품은 철저한 품질 테스트를 거칩니다."
+    },
+    {
+      "word": "simultaneously",
+      "meaning": "동시에",
+      "example": "The event will be broadcast simultaneously in three languages.",
+      "translation": "행사는 세 개 언어로 동시에 방송될 것입니다."
+    },
+    {
+      "word": "sophisticated",
+      "meaning": "정교한, 세련된",
+      "example": "The new system features sophisticated data analysis tools.",
+      "translation": "새 시스템은 정교한 데이터 분석 도구를 갖추고 있습니다."
+    },
+    {
+      "word": "state-of-the-art",
+      "meaning": "최신식의, 최첨단의",
+      "example": "The facility is equipped with state-of-the-art technology.",
+      "translation": "그 시설에는 최첨단 기술이 갖춰져 있습니다."
+    },
+    {
+      "word": "strategic",
+      "meaning": "전략적인",
+      "example": "The company made a strategic decision to expand overseas.",
+      "translation": "회사는 해외로 확장하기로 전략적 결정을 내렸습니다."
+    },
+    {
+      "word": "subsidiary",
+      "meaning": "자회사, 계열사",
+      "example": "The corporation owns several subsidiaries in Asia.",
+      "translation": "그 기업은 아시아에 여러 자회사를 소유하고 있습니다."
+    },
+    {
+      "word": "substantial",
+      "meaning": "상당한, 실질적인",
+      "example": "The project requires a substantial investment of time and resources.",
+      "translation": "그 프로젝트는 상당한 시간과 자원의 투자가 필요합니다."
+    },
+    {
+      "word": "sufficient",
+      "meaning": "충분한",
+      "example": "Please allow sufficient time for the application to be processed.",
+      "translation": "지원서가 처리될 충분한 시간을 확보해 주세요."
+    },
+    {
+      "word": "surpass",
+      "meaning": "능가하다, 초과하다",
+      "example": "This year's sales surpassed all previous records.",
+      "translation": "올해 매출이 이전의 모든 기록을 능가했습니다."
+    },
+    {
+      "word": "tentative",
+      "meaning": "잠정적인, 임시의",
+      "example": "The meeting date is tentative and subject to change.",
+      "translation": "회의 날짜는 잠정적이며 변경될 수 있습니다."
+    },
+    {
+      "word": "thorough",
+      "meaning": "철저한, 완전한",
+      "example": "A thorough review of the contract is necessary before signing.",
+      "translation": "서명하기 전에 계약서에 대한 철저한 검토가 필요합니다."
+    },
+    {
+      "word": "transaction",
+      "meaning": "거래",
+      "example": "All financial transactions are recorded in the system.",
+      "translation": "모든 금융 거래는 시스템에 기록됩니다."
+    },
+    {
+      "word": "tremendous",
+      "meaning": "엄청난, 거대한",
+      "example": "The product launch was a tremendous success.",
+      "translation": "제품 출시는 엄청난 성공이었습니다."
+    },
+    {
+      "word": "unprecedented",
+      "meaning": "전례 없는",
+      "example": "The company experienced unprecedented growth this quarter.",
+      "translation": "회사는 이번 분기에 전례 없는 성장을 경험했습니다."
+    },
+    {
+      "word": "valid",
+      "meaning": "유효한, 타당한",
+      "example": "A valid ID is required for entry to the building.",
+      "translation": "건물 입장에는 유효한 신분증이 필요합니다."
+    },
+    {
+      "word": "verify",
+      "meaning": "확인하다, 입증하다",
+      "example": "Please verify your email address to complete registration.",
+      "translation": "등록을 완료하려면 이메일 주소를 확인해 주세요."
+    },
+    {
+      "word": "virtually",
+      "meaning": "사실상, 거의",
+      "example": "The product is now available in virtually every store.",
+      "translation": "이 제품은 이제 사실상 모든 매장에서 구입할 수 있습니다."
+    },
+    {
+      "word": "warranty",
+      "meaning": "보증, 품질 보증",
+      "example": "The warranty covers repairs for up to two years.",
+      "translation": "보증은 최대 2년간 수리를 보장합니다."
+    },
+    {
+      "word": "widespread",
+      "meaning": "널리 퍼진, 광범위한",
+      "example": "The new policy received widespread support from employees.",
+      "translation": "새 정책은 직원들로부터 광범위한 지지를 받았습니다."
+    },
+    {
+      "word": "workflow",
+      "meaning": "업무 흐름, 작업 과정",
+      "example": "The new software streamlines the workflow process.",
+      "translation": "새 소프트웨어는 업무 흐름 과정을 간소화합니다."
+    }
+  ]
+}
