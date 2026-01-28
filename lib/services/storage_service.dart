@@ -26,6 +26,7 @@ class StorageService {
   static const String _testResultsBox = 'test_results';
   static const String _wrongAnswersBox = 'wrong_answers';
   static const String _savedWordsBox = 'saved_words';
+  static const String _customWordsBox = 'custom_words';
   
   // SharedPreferences 키 상수
   static const String _themeModeKey = 'theme_mode';
@@ -46,6 +47,7 @@ class StorageService {
     await Hive.openBox<String>(_testResultsBox);
     await Hive.openBox<String>(_wrongAnswersBox);
     await Hive.openBox<String>(_savedWordsBox);
+    await Hive.openBox<String>(_customWordsBox);
     
     // SharedPreferences 초기화
     _prefs = await SharedPreferences.getInstance();
@@ -311,5 +313,64 @@ class StorageService {
   /// 테마 모드 로드
   bool getThemeMode() {
     return _prefs.getBool(_themeModeKey) ?? false;
+  }
+
+  // ============================================================
+  // 사용자 정의 단어장 관련 메서드
+  // ============================================================
+
+  /// 사용자 정의 단어 추가
+  Future<void> addCustomWord(Word word) async {
+    final box = Hive.box<String>(_customWordsBox);
+    List<Word> customWords = await loadCustomWords();
+    
+    // 중복 체크
+    if (!customWords.any((w) => w.word.toLowerCase() == word.word.toLowerCase())) {
+      customWords.add(word);
+      final jsonList = customWords.map((w) => w.toJson()).toList();
+      await box.put('custom', json.encode(jsonList));
+    }
+  }
+
+  /// 사용자 정의 단어 수정
+  Future<void> updateCustomWord(String oldWord, Word newWord) async {
+    final box = Hive.box<String>(_customWordsBox);
+    List<Word> customWords = await loadCustomWords();
+    
+    final index = customWords.indexWhere((w) => w.word == oldWord);
+    if (index != -1) {
+      customWords[index] = newWord;
+      final jsonList = customWords.map((w) => w.toJson()).toList();
+      await box.put('custom', json.encode(jsonList));
+    }
+  }
+
+  /// 사용자 정의 단어 삭제
+  Future<void> removeCustomWord(String wordText) async {
+    final box = Hive.box<String>(_customWordsBox);
+    List<Word> customWords = await loadCustomWords();
+    
+    customWords.removeWhere((w) => w.word == wordText);
+    final jsonList = customWords.map((w) => w.toJson()).toList();
+    await box.put('custom', json.encode(jsonList));
+  }
+
+  /// 사용자 정의 단어장 로드
+  Future<List<Word>> loadCustomWords() async {
+    final box = Hive.box<String>(_customWordsBox);
+    final data = box.get('custom');
+    
+    if (data == null) return [];
+    
+    final List<dynamic> jsonList = json.decode(data);
+    return jsonList
+        .map((item) => Word.fromJson(item as Map<String, dynamic>))
+        .toList();
+  }
+
+  /// 사용자 정의 단어인지 확인
+  Future<bool> isCustomWord(String wordText) async {
+    final customWords = await loadCustomWords();
+    return customWords.any((w) => w.word == wordText);
   }
 }

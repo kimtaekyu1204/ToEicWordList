@@ -41,18 +41,28 @@ class AppProvider extends ChangeNotifier {
   // 단어 데이터 상태
   // ============================================================
   
-  List<Word> _allWords = [];
-  List<Word> get allWords => _allWords;
+  List<Word> _baseWords = [];      // 기본 단어장 (앱 내장)
+  List<Word> _customWords = [];    // 사용자 정의 단어장
+  
+  /// 전체 단어 (기본 + 사용자 정의)
+  List<Word> get allWords => [..._baseWords, ..._customWords];
+  
+  /// 기본 단어만
+  List<Word> get baseWords => _baseWords;
+  
+  /// 사용자 정의 단어만
+  List<Word> get customWords => _customWords;
   
   bool _isLoading = true;
   bool get isLoading => _isLoading;
 
-  /// 단어 데이터 로드
+  /// 단어 데이터 로드 (기본 + 사용자 정의)
   Future<void> loadWords() async {
     _isLoading = true;
     notifyListeners();
 
-    _allWords = await _storage.loadVocabularyFromAsset();
+    _baseWords = await _storage.loadVocabularyFromAsset();
+    _customWords = await _storage.loadCustomWords();
     
     _isLoading = false;
     notifyListeners();
@@ -60,10 +70,10 @@ class AppProvider extends ChangeNotifier {
 
   /// 랜덤 단어 목록 반환 (테스트용)
   List<Word> getRandomWords(int count) {
-    if (_allWords.isEmpty) return [];
+    if (allWords.isEmpty) return [];
     
-    final shuffled = List<Word>.from(_allWords)..shuffle();
-    return shuffled.take(count.clamp(0, _allWords.length)).toList();
+    final shuffled = List<Word>.from(allWords)..shuffle();
+    return shuffled.take(count.clamp(0, allWords.length)).toList();
   }
 
   // ============================================================
