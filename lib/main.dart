@@ -147,6 +147,7 @@ class _MainScreenState extends State<MainScreen> {
     StudyScreen(),
     TestScreen(),
     RelayScreen(),
+    CustomWordsScreen(),
     WrongAnswersScreen(),
   ];
 
@@ -156,6 +157,7 @@ class _MainScreenState extends State<MainScreen> {
     _NavItem(icon: Icons.menu_book_outlined, activeIcon: Icons.menu_book, label: '학습'),
     _NavItem(icon: Icons.quiz_outlined, activeIcon: Icons.quiz, label: '테스트'),
     _NavItem(icon: Icons.emoji_events_outlined, activeIcon: Icons.emoji_events, label: '릴레이'),
+    _NavItem(icon: Icons.add_circle_outline, activeIcon: Icons.add_circle, label: '내 단어'),
     _NavItem(icon: Icons.bookmark_outline, activeIcon: Icons.bookmark, label: '오답'),
   ];
 

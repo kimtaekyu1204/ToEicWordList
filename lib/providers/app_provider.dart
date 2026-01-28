@@ -176,6 +176,42 @@ class AppProvider extends ChangeNotifier {
   double get todayAccuracy => _storage.getTodayAccuracy();
 
   // ============================================================
+  // 사용자 정의 단어장 관련
+  // ============================================================
+
+  /// 사용자 정의 단어 추가
+  Future<bool> addCustomWord(Word word) async {
+    // 중복 체크 (기본 + 사용자 정의 모두)
+    if (allWords.any((w) => w.word.toLowerCase() == word.word.toLowerCase())) {
+      return false; // 중복
+    }
+    
+    await _storage.addCustomWord(word);
+    _customWords = await _storage.loadCustomWords();
+    notifyListeners();
+    return true;
+  }
+
+  /// 사용자 정의 단어 수정
+  Future<void> updateCustomWord(String oldWord, Word newWord) async {
+    await _storage.updateCustomWord(oldWord, newWord);
+    _customWords = await _storage.loadCustomWords();
+    notifyListeners();
+  }
+
+  /// 사용자 정의 단어 삭제
+  Future<void> removeCustomWord(String wordText) async {
+    await _storage.removeCustomWord(wordText);
+    _customWords = await _storage.loadCustomWords();
+    notifyListeners();
+  }
+
+  /// 사용자 정의 단어인지 확인
+  bool isCustomWord(String wordText) {
+    return _customWords.any((w) => w.word == wordText);
+  }
+
+  // ============================================================
   // 초기화
   // ============================================================
 
@@ -186,7 +222,7 @@ class AppProvider extends ChangeNotifier {
     // 테마 모드 로드
     _isDarkMode = _storage.getThemeMode();
     
-    // 단어 데이터 로드
+    // 단어 데이터 로드 (기본 + 사용자 정의)
     await loadWords();
     
     // 오답 및 저장 단어 로드

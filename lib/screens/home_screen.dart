@@ -317,6 +317,8 @@ class _HomeScreenState extends State<HomeScreen> {
   /// 학습 현황 카드
   Widget _buildProgressCard(BuildContext context, AppProvider provider, bool isDark) {
     final totalWords = provider.allWords.length;
+    final baseWords = provider.baseWords.length;
+    final customWords = provider.customWords.length;
     
     return GlassCard(
       child: Column(
@@ -355,6 +357,27 @@ class _HomeScreenState extends State<HomeScreen> {
               const SizedBox(width: 16),
               _buildStatItem(
                 context,
+                '기본 단어',
+                '$baseWords개',
+                Icons.menu_book_outlined,
+                isDark,
+              ),
+              const SizedBox(width: 16),
+              _buildStatItem(
+                context,
+                '내 단어',
+                '$customWords개',
+                Icons.add_circle_outline,
+                isDark,
+                color: AppColors.correct,
+              ),
+            ],
+          ),
+          const SizedBox(height: 12),
+          Row(
+            children: [
+              _buildStatItem(
+                context,
                 '오늘 테스트',
                 '${provider.todayTestCount}회',
                 Icons.quiz_outlined,
@@ -367,6 +390,15 @@ class _HomeScreenState extends State<HomeScreen> {
                 '${provider.savedWords.length}개',
                 Icons.bookmark_outline,
                 isDark,
+              ),
+              const SizedBox(width: 16),
+              _buildStatItem(
+                context,
+                '오늘 오답',
+                '${provider.todayWrongAnswers.length}개',
+                Icons.error_outline,
+                isDark,
+                color: AppColors.wrong,
               ),
             ],
           ),
@@ -381,14 +413,15 @@ class _HomeScreenState extends State<HomeScreen> {
     String label,
     String value,
     IconData icon,
-    bool isDark,
-  ) {
+    bool isDark, {
+    Color? color,
+  }) {
+    final itemColor = color ?? (isDark ? AppColors.darkAccent : AppColors.lightAccentDark);
     return Expanded(
       child: Container(
         padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 8),
         decoration: BoxDecoration(
-          color: (isDark ? AppColors.darkAccent : AppColors.lightAccent)
-              .withValues(alpha: 0.15),
+          color: itemColor.withValues(alpha: 0.15),
           borderRadius: BorderRadius.circular(12),
         ),
         child: Column(
@@ -396,7 +429,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Icon(
               icon,
               size: 20,
-              color: isDark ? AppColors.darkAccent : AppColors.lightAccentDark,
+              color: itemColor,
             ),
             const SizedBox(height: 8),
             Text(
